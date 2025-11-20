@@ -1,7 +1,7 @@
 <div align="center" width="50">
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=2000&pause=500&color=00F7FF&center=true&vCenter=true&width=435&lines=Hello+Developers!;I+am+Abhishek;Full-stack+Learner" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=2000&pause=500&color=00F7FF&center=true&vCenter=true&width=435&lines=Hello+Developers!;I+am+Abhishek;Full-stack+Developer" />
 </p> <br>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Workspace" width="40%"/><br>
 
